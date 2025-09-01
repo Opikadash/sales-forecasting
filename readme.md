@@ -207,7 +207,7 @@ CI/CD pipeline: Automated testing and deployment workflows
 This project is open source under the MIT License.
 Acknowledgments:
 
-Rossmann and Walmart for providing real retail datasets
+Rossmann for providing real retail dataset
 Facebook Prophet team for the excellent forecasting library
 XGBoost community for the gradient boosting framework
 Power BI team for the business intelligence platform
