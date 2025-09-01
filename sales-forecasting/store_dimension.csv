@@ -1,0 +1,11 @@
+StoreID,Region,StoreType,Assortment,PopulationDensity
+1,North,a,a,High
+2,North,a,a,Medium
+3,North,a,a,Low
+4,South,c,c,High
+5,South,a,a,Low
+6,East,a,a,High
+7,East,d,a,Medium
+8,West,a,a,Medium
+9,West,a,c,High
+10,West,a,a,Medium
